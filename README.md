@@ -55,13 +55,13 @@ cd dhscm-replication
 pip install -r requirements.txt
 
 # Run scenarios (reproduces Table 1 + comparative metro results)
-python src/run_scenarios.py
+python run_scenarios.py
 
 # Run sensitivity analysis
-python src/sensitivity.py
+python sensitivity.py
 
 # Generate all figures
-python src/plots.py
+python plots.py
 ```
 
 ---
