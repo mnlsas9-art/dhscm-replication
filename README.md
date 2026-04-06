@@ -159,4 +159,4 @@ Model equations: Described in full in the manuscript; reproduced here for replic
 
 Naga Lalitha Kumar Mudiganti  
 Independent Researcher, Cary, NC, USA  
-SSRN Author Profile: [ssrn.com/author=[your-id]]
+[SSRN Author Profile: (https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=10334817)]
